@@ -1,5 +1,3 @@
-Здесь ничего нет, разработка отменена. Только короткий список типовых ошибок при разработке криптографии
+Короткий список типовых ошибок при разработке криптографии
 
-Nothing here
-
-https://vincryptoos.github.io/index.html
+[https://vincryptoos.github.io/index.html](https://vincryptoos.github.io/index.html)
